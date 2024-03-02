@@ -1,0 +1,4 @@
+content:
+  - name: home
+    label: Home
+    path: /site
