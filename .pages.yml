@@ -1,4 +1,5 @@
 content:
   - name: home
     label: Home
-    path: /site
+    path: /site/index.md
+    type:file
